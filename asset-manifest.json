@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/Pia007/Huddle-React.git/static/css/main.452292dd.chunk.css",
-    "main.js": "/Pia007/Huddle-React.git/static/js/main.b7c0e3e6.chunk.js",
-    "main.js.map": "/Pia007/Huddle-React.git/static/js/main.b7c0e3e6.chunk.js.map",
-    "runtime-main.js": "/Pia007/Huddle-React.git/static/js/runtime-main.03919cc9.js",
-    "runtime-main.js.map": "/Pia007/Huddle-React.git/static/js/runtime-main.03919cc9.js.map",
-    "static/js/2.4097b7c5.chunk.js": "/Pia007/Huddle-React.git/static/js/2.4097b7c5.chunk.js",
-    "static/js/2.4097b7c5.chunk.js.map": "/Pia007/Huddle-React.git/static/js/2.4097b7c5.chunk.js.map",
-    "static/js/3.75ba3cbd.chunk.js": "/Pia007/Huddle-React.git/static/js/3.75ba3cbd.chunk.js",
-    "static/js/3.75ba3cbd.chunk.js.map": "/Pia007/Huddle-React.git/static/js/3.75ba3cbd.chunk.js.map",
-    "index.html": "/Pia007/Huddle-React.git/index.html",
-    "static/css/main.452292dd.chunk.css.map": "/Pia007/Huddle-React.git/static/css/main.452292dd.chunk.css.map",
-    "static/js/2.4097b7c5.chunk.js.LICENSE.txt": "/Pia007/Huddle-React.git/static/js/2.4097b7c5.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/Pia007/Huddle-React.git/static/media/bg-mobile.41ba0830.svg",
-    "static/media/illustration-mockups.264994a5.svg": "/Pia007/Huddle-React.git/static/media/illustration-mockups.264994a5.svg",
-    "static/media/logo.2b3c07e4.svg": "/Pia007/Huddle-React.git/static/media/logo.2b3c07e4.svg"
+    "main.css": "//Huddle-React.git/static/css/main.4c974a0a.chunk.css",
+    "main.js": "//Huddle-React.git/static/js/main.b7c0e3e6.chunk.js",
+    "main.js.map": "//Huddle-React.git/static/js/main.b7c0e3e6.chunk.js.map",
+    "runtime-main.js": "//Huddle-React.git/static/js/runtime-main.f161788c.js",
+    "runtime-main.js.map": "//Huddle-React.git/static/js/runtime-main.f161788c.js.map",
+    "static/js/2.4097b7c5.chunk.js": "//Huddle-React.git/static/js/2.4097b7c5.chunk.js",
+    "static/js/2.4097b7c5.chunk.js.map": "//Huddle-React.git/static/js/2.4097b7c5.chunk.js.map",
+    "static/js/3.75ba3cbd.chunk.js": "//Huddle-React.git/static/js/3.75ba3cbd.chunk.js",
+    "static/js/3.75ba3cbd.chunk.js.map": "//Huddle-React.git/static/js/3.75ba3cbd.chunk.js.map",
+    "index.html": "//Huddle-React.git/index.html",
+    "static/css/main.4c974a0a.chunk.css.map": "//Huddle-React.git/static/css/main.4c974a0a.chunk.css.map",
+    "static/js/2.4097b7c5.chunk.js.LICENSE.txt": "//Huddle-React.git/static/js/2.4097b7c5.chunk.js.LICENSE.txt",
+    "static/media/App.css": "//Huddle-React.git/static/media/bg-mobile.41ba0830.svg",
+    "static/media/illustration-mockups.264994a5.svg": "//Huddle-React.git/static/media/illustration-mockups.264994a5.svg",
+    "static/media/logo.2b3c07e4.svg": "//Huddle-React.git/static/media/logo.2b3c07e4.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.03919cc9.js",
+    "static/js/runtime-main.f161788c.js",
     "static/js/2.4097b7c5.chunk.js",
-    "static/css/main.452292dd.chunk.css",
+    "static/css/main.4c974a0a.chunk.css",
     "static/js/main.b7c0e3e6.chunk.js"
   ]
 }
