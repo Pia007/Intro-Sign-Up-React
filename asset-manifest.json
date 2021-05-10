@@ -1,25 +1,21 @@
 {
   "files": {
-    "main.css": "//Huddle-React.git/static/css/main.4c974a0a.chunk.css",
-    "main.js": "//Huddle-React.git/static/js/main.b7c0e3e6.chunk.js",
-    "main.js.map": "//Huddle-React.git/static/js/main.b7c0e3e6.chunk.js.map",
-    "runtime-main.js": "//Huddle-React.git/static/js/runtime-main.f161788c.js",
-    "runtime-main.js.map": "//Huddle-React.git/static/js/runtime-main.f161788c.js.map",
-    "static/js/2.4097b7c5.chunk.js": "//Huddle-React.git/static/js/2.4097b7c5.chunk.js",
-    "static/js/2.4097b7c5.chunk.js.map": "//Huddle-React.git/static/js/2.4097b7c5.chunk.js.map",
-    "static/js/3.75ba3cbd.chunk.js": "//Huddle-React.git/static/js/3.75ba3cbd.chunk.js",
-    "static/js/3.75ba3cbd.chunk.js.map": "//Huddle-React.git/static/js/3.75ba3cbd.chunk.js.map",
-    "index.html": "//Huddle-React.git/index.html",
-    "static/css/main.4c974a0a.chunk.css.map": "//Huddle-React.git/static/css/main.4c974a0a.chunk.css.map",
-    "static/js/2.4097b7c5.chunk.js.LICENSE.txt": "//Huddle-React.git/static/js/2.4097b7c5.chunk.js.LICENSE.txt",
-    "static/media/App.css": "//Huddle-React.git/static/media/bg-mobile.41ba0830.svg",
-    "static/media/illustration-mockups.264994a5.svg": "//Huddle-React.git/static/media/illustration-mockups.264994a5.svg",
-    "static/media/logo.2b3c07e4.svg": "//Huddle-React.git/static/media/logo.2b3c07e4.svg"
+    "main.css": "/Intro-Sign-Up-React/static/css/main.caeadf32.chunk.css",
+    "main.js": "/Intro-Sign-Up-React/static/js/main.bada3b50.chunk.js",
+    "main.js.map": "/Intro-Sign-Up-React/static/js/main.bada3b50.chunk.js.map",
+    "runtime-main.js": "/Intro-Sign-Up-React/static/js/runtime-main.73838252.js",
+    "runtime-main.js.map": "/Intro-Sign-Up-React/static/js/runtime-main.73838252.js.map",
+    "static/js/2.dd041346.chunk.js": "/Intro-Sign-Up-React/static/js/2.dd041346.chunk.js",
+    "static/js/2.dd041346.chunk.js.map": "/Intro-Sign-Up-React/static/js/2.dd041346.chunk.js.map",
+    "index.html": "/Intro-Sign-Up-React/index.html",
+    "static/css/main.caeadf32.chunk.css.map": "/Intro-Sign-Up-React/static/css/main.caeadf32.chunk.css.map",
+    "static/js/2.dd041346.chunk.js.LICENSE.txt": "/Intro-Sign-Up-React/static/js/2.dd041346.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/Intro-Sign-Up-React/static/media/bg-intro-desktop.059183ee.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.f161788c.js",
-    "static/js/2.4097b7c5.chunk.js",
-    "static/css/main.4c974a0a.chunk.css",
-    "static/js/main.b7c0e3e6.chunk.js"
+    "static/js/runtime-main.73838252.js",
+    "static/js/2.dd041346.chunk.js",
+    "static/css/main.caeadf32.chunk.css",
+    "static/js/main.bada3b50.chunk.js"
   ]
 }
